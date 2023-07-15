@@ -1,0 +1,1 @@
+export const facebook = require('../facebook.png');
